@@ -1,0 +1,40 @@
+﻿  main.cpp
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\dohoa.h(5,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\dohoa.h(5,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\dohoa.h(887,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(121,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(134,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(283,7): warning C4551: function call missing argument list
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(582,7): warning C4101: 'c': unreferenced local variable
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(39,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(48,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(347,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(356,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(620,90): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(639,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(664,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(673,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(683,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(693,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(698,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(1099,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(1118,90): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(1145,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(1280,88): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xulimenudong.h(1295,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\menudong.h(38,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\menudong.h(49,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\menudong.h(59,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\menudong.h(71,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\menudong.h(148,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\menudong.h(226,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\menudong.h(300,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\menudong.h(351,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\menudong.h(365,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\menudong.h(379,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\menudong.h(400,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\menudong.h(422,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(37): warning C4715: 'Chuyen1SoSangKiTu': not all control paths return a value
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(205): warning C4715: 'ChuyenThang': not all control paths return a value
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(350): warning C4715: 'TrangThaiMuonTra': not all control paths return a value
+  do_an_ctdl.vcxproj -> D:\c++\source\repos\CTDL và GT\QLTV\x64\Debug\do_an_ctdl.exe

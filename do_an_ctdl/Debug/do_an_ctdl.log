@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\dohoa.h(5,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\dohoa.h(5,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(63,20): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(72,20): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(80,20): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(99,20): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(108,20): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(148,24): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(283,7): warning C4551: function call missing argument list
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(361,84): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(366,51): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(475,72): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(480,52): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(587,97): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(599,38): warning C4018: '<': signed/unsigned mismatch
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(582,7): warning C4101: 'c': unreferenced local variable
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(37): warning C4715: 'Chuyen1SoSangKiTu': not all control paths return a value
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(205): warning C4715: 'ChuyenThang': not all control paths return a value
+D:\c++\source\repos\CTDL và GT\QLTV\do_an_ctdl\xuli.h(350): warning C4715: 'TrangThaiMuonTra': not all control paths return a value
+  do_an_ctdl.vcxproj -> D:\c++\source\repos\CTDL và GT\QLTV\Debug\do_an_ctdl.exe
